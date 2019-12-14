@@ -58,3 +58,10 @@ https://github.com/processUser/movie_app_2019/commit/6e4ea9d8dc1e68e20a3679e0afe
 https://github.com/processUser/movie_app_2019/commit/84a6419bae241c75c31c43daa2e2f457133c3330
 
 6. setstate
+
+https://github.com/processUser/movie_app_2019/commit/14d3d66a70890efd15f5513ea4461845f9fcc854
+
+7. Component Life Cycle
+https://github.com/processUser/movie_app_2019/commit/508e05af070e02eed0fdacf74d9fdc2b6039682f
+
+8. mount
