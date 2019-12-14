@@ -12,6 +12,7 @@ npx create-react-app [폴더명]
 npm start
 
 npm i prop-types //props가 잘 전달되었는지...
+npm i axios
 
 // git 사용하기
 
@@ -62,6 +63,9 @@ https://github.com/processUser/movie_app_2019/commit/84a6419bae241c75c31c43daa2e
 https://github.com/processUser/movie_app_2019/commit/14d3d66a70890efd15f5513ea4461845f9fcc854
 
 7. Component Life Cycle
+
 https://github.com/processUser/movie_app_2019/commit/508e05af070e02eed0fdacf74d9fdc2b6039682f
 
 8. mount
+
+https://github.com/processUser/movie_app_2019/commit/1b4ada539e8f790497a540562b6221282f8871c3
