@@ -52,3 +52,9 @@ https://github.com/processUser/movie_app_2019/commit/e44fa69b2a4da2d8d443295a473
 4. PropTypes 
 
 https://github.com/processUser/movie_app_2019/commit/6e4ea9d8dc1e68e20a3679e0afedd42e5d4ab795
+
+5. state
+
+https://github.com/processUser/movie_app_2019/commit/84a6419bae241c75c31c43daa2e2f457133c3330
+
+6. setstate
