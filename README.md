@@ -16,6 +16,9 @@ npm i prop-types //props가 잘 전달되었는지...
 npm i axios
 
 npm i gh-pages // github 홈페이지 사용할려면 설치..
+    //package.json 설정후..
+    npm run deploy //npm run []
+
 
 // git 사용하기
 
@@ -109,3 +112,4 @@ https://github.com/processUser/movie_app_2019/commit/4a4143f382fb54ea906f6d1f498
 
 15. github에서 제공되는 홈페이지 이용하기.
 
+https://github.com/processUser/movie_app_2019/commit/22e9c49a4b73d0b7c06e04d355bb49bced568e8f
