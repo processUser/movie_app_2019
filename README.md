@@ -12,7 +12,10 @@ npx create-react-app [폴더명]
 npm start
 
 npm i prop-types //props가 잘 전달되었는지...
+
 npm i axios
+
+npm i gh-pages // github 홈페이지 사용할려면 설치..
 
 // git 사용하기
 
@@ -97,3 +100,12 @@ https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnm
 https://chrome.google.com/webstore/detail/page-ruler-redux/giejhjebcalaheckengmchjekofhhmal for sizes.
 
 ---
+
+https://github.com/processUser/movie_app_2019/commit/dc8652ff53fec69a66035f826c35dd90a4b0040d
+
+14. 
+
+https://github.com/processUser/movie_app_2019/commit/4a4143f382fb54ea906f6d1f49891f1a89287c50
+
+15. github에서 제공되는 홈페이지 이용하기.
+
