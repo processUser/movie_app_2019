@@ -86,3 +86,14 @@ https://github.com/processUser/movie_app_2019/commit/67f9809e3d3c5f0982ecac0eb7f
 
 12. 
 
+https://github.com/processUser/movie_app_2019/commit/f7afa041c10624f6bb8995678f4d99dc7b595d3a
+
+13. 
+
+---
+
+https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp for colors.
+
+https://chrome.google.com/webstore/detail/page-ruler-redux/giejhjebcalaheckengmchjekofhhmal for sizes.
+
+---
