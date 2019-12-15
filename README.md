@@ -75,3 +75,9 @@ https://github.com/processUser/movie_app_2019/commit/1b4ada539e8f790497a540562b6
 https://github.com/processUser/movie_app_2019/commit/9800f0f83c6365c59711f2ba5d5b370102c6d4f9
 
 10. 
+
+https://github.com/processUser/movie_app_2019/commit/ed1dd695cd8337c5f6e9e9be4518910843c18f0a
+
+https://github.com/processUser/movie_app_2019/commit/4c52d8f57bae5b773c4c1592c5a56933ce758fca
+
+11. css
